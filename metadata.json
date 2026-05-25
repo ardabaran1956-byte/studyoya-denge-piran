@@ -1,0 +1,8 @@
+{
+  "name": "Stûdyoya Dengê Pîran",
+  "description": "Kurdî Sound Studio \u0026 Oral History Sound Archive preserving Kurdish folk song, Dengbêj tradition, and wise elders\u0027 voices, integrated with an AI historical assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
